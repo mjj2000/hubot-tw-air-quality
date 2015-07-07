@@ -1,0 +1,17 @@
+{
+  "name": "hubot-tw-air-quality",
+  "version": "0.0.1",
+  "author": "MJJ <mjj2000@gmail.com>",
+  "repository": "https://github.com/mjj2000/hubot-tw-air-quality",
+  "license": "MIT",
+  "description": "Hubot script to query air quality data of Taiwan",
+  "keywords": [ "air quality", "PM2.5" ],
+  "dependencies": {
+    "hubot": "^2.13.2",
+    "lodash": "3.10.0",
+    "tw-air-quality": "0.0.1"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
