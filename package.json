@@ -11,7 +11,7 @@
     "lodash": "3.10.0",
     "tw-air-quality": "0.0.1"
   },
-  "main": "scripts/tw-air-quality",
+  "main": "src/tw-air-quality",
   "engines": {
     "node": "0.10.x"
   }
