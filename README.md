@@ -1,4 +1,5 @@
 # hubot-tw-air-quality
+![image](https://nodei.co/npm/hubot-tw-air-quality.png)
 
 Hubot script to query air quality data of Taiwan
 
