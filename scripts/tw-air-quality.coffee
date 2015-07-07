@@ -1,6 +1,9 @@
 # Description:
 #   Commands to query air quality data of Taiwan
 #
+# Dependencies:
+#   "tw-air-quality": "0.0.3"
+#
 # Commands:
 #   hubot tw-air:<data-name> <city> - Query a specified data by city
 
