@@ -1,6 +1,6 @@
 {
   "name": "hubot-tw-air-quality",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "author": "MJJ <mjj2000@gmail.com>",
   "repository": "https://github.com/mjj2000/hubot-tw-air-quality",
   "license": "MIT",
@@ -9,7 +9,7 @@
   "dependencies": {
     "hubot": "^2.13.2",
     "lodash": "3.10.0",
-    "tw-air-quality": "0.0.1"
+    "tw-air-quality": "0.0.4"
   },
   "main": "index.js",
   "engines": {
