@@ -1,4 +1,4 @@
-# hubot-tw-air-quality
+# hubot-tw-air-quality(Deprecated)
 [![NPM](https://nodei.co/npm/hubot-tw-air-quality.png?mini=true)](https://nodei.co/npm/hubot-tw-air-quality/)
 
 Hubot script to query air quality data of Taiwan
